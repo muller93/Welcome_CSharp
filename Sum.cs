@@ -1,8 +1,4 @@
-using System;
-
-namespace firstC_App
-{
-  class Sum
+class Sum
   {
     public void summation()
     {
@@ -13,7 +9,6 @@ namespace firstC_App
       {
         sum[0] += numbers[i];
       }
-      Console.WriteLine(sum[0]);
+      System.Console.WriteLine(sum[0]);
     }
   }
-}

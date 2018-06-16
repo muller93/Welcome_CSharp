@@ -8,9 +8,11 @@ namespace firstC_App
     {
       Sum sum = new Sum();
       Copy copy = new Copy();
+      Minimum minimum = new Minimum();
 
       sum.summation();
       copy.copping();
+      minimum.min();
     }
   }
 }
