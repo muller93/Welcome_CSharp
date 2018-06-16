@@ -13,7 +13,7 @@ namespace firstC_App
       {
         sum[0] += numbers[i];
       }
-      System.Console.Write(sum[0]);
+      Console.WriteLine(sum[0]);
     }
   }
 }

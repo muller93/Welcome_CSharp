@@ -6,11 +6,11 @@ namespace firstC_App
   {
     static void Main(string[] args)
     {
-        Sum sum = new Sum();
-        sum.summation();
+      Sum sum = new Sum();
+      Copy copy = new Copy();
+
+      sum.summation();
+      copy.copping();
     }
-
   }
-
-
 }
