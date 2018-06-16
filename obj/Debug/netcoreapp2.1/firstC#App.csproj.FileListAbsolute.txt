@@ -1,0 +1,11 @@
+/home/muller/firstC#App/bin/Debug/netcoreapp2.1/firstC#App.deps.json
+/home/muller/firstC#App/bin/Debug/netcoreapp2.1/firstC#App.runtimeconfig.json
+/home/muller/firstC#App/bin/Debug/netcoreapp2.1/firstC#App.runtimeconfig.dev.json
+/home/muller/firstC#App/bin/Debug/netcoreapp2.1/firstC#App.dll
+/home/muller/firstC#App/bin/Debug/netcoreapp2.1/firstC#App.pdb
+/home/muller/firstC#App/obj/Debug/netcoreapp2.1/firstC#App.csprojAssemblyReference.cache
+/home/muller/firstC#App/obj/Debug/netcoreapp2.1/firstC#App.csproj.CoreCompileInputs.cache
+/home/muller/firstC#App/obj/Debug/netcoreapp2.1/firstC#App.AssemblyInfoInputs.cache
+/home/muller/firstC#App/obj/Debug/netcoreapp2.1/firstC#App.AssemblyInfo.cs
+/home/muller/firstC#App/obj/Debug/netcoreapp2.1/firstC#App.dll
+/home/muller/firstC#App/obj/Debug/netcoreapp2.1/firstC#App.pdb
